@@ -1,2 +1,2 @@
 # dev_rahul
-this is the basic projects  which are on beginer stage
+this is the basic project  which is done on beginer stage
